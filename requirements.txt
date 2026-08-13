@@ -1,0 +1,14 @@
+openai-whisper 
+torch 
+sounddevice 
+scipy 
+numpy
+streamlit
+ollama
+faiss-cpu
+langchain
+sentence-transformers
+pypdf
+langchain-community
+kokoro
+soundfile
